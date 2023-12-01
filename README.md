@@ -2,4 +2,4 @@
 
 
 <h5>Compreendo</h5>
-[![My Skills](https://skillicons.dev/icons?i=vscode,azure,php,html,css)](https://skillicons.dev)
+https://skillicons.dev/icons?i=vscode,azure,php,html,css)](https://skillicons.dev)
